@@ -1,5 +1,5 @@
 ## Western Digital Corporation
-<img src="">
+<img src="https://raw.githubusercontent.com/bloodberrys/DataScience/master/wdc.png">
 
 # Analyze Western Digital Corporation and Its Acquisition
 Implementing Geometric Brownian Motion method, Stochastic Oscillator Indicator, and Moving Average Convergence Divergence Indicator.
