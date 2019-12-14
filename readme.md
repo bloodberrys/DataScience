@@ -1,7 +1,14 @@
 # Analyze Western Digital Corporation and Its Acquisition
 Implementing Geometric Brownian Motion method, Stochastic Oscillator Indicator, and Moving Average Convergence Divergence Indicator.
 
+# Tools
+* Anaconda Jupyter Notebook (Python 3.x)
+* Using pandas, matplot, and more data science python library
 
+# Dataset
+_finance.yahoo.com : https://finance.yahoo.com/quote/WDC/
+
+# On Point
 * Hitachi Global Storage Technologies on March 2012 
 * Arkeia Software Backup Software on January 2013 <a href="http://www.jagatreview.com/2013/01/pr-wd-memperluas-portofolio-produk-penyimpanan-smb-dengan-solusi-software-arkeia/">Source</a>
 * Technically HGST acquire Stec on September 12, 2013 and Its parent WDC Focusing STEC SSD Company, and this acquisition is a technical talent and intellectual property: STEC has more than 100 patents related to SSDs and more than 900 employees. <a href="https://www.anandtech.com/show/7100/western-digital-acquires-stec">Source</a>
