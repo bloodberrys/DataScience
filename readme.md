@@ -6,7 +6,7 @@ Implementing Geometric Brownian Motion method, Stochastic Oscillator Indicator, 
 * Using pandas, matplot, and more data science python library
 
 # Dataset
-_finance.yahoo.com : https://finance.yahoo.com/quote/WDC/
+_finance.yahoo.com_ : https://finance.yahoo.com/quote/WDC/
 
 # On Point
 * Hitachi Global Storage Technologies on March 2012 
