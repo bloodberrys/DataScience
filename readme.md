@@ -3,15 +3,11 @@ Implementing Geometric Brownian Motion method, Stochastic Oscillator Indicator, 
 
 
 * Hitachi Global Storage Technologies on March 2012 
-* Arkeia Software untuk backup software tahun januari 2013 <a href="http://www.jagatreview.com/2013/01/pr-wd-memperluas-portofolio-produk-penyimpanan-smb-dengan-solusi-software-arkeia/">Link</a>
-3. Secara teknis HGST mengakuisisi Stec September 12, 2013, Dan parentnya adalah WDC Fokus utama STEC adalah SSD perusahaan sehingga masuk akal untuk menggabungkan STEC dengan HGST karena HGST telah memiliki jajaran SSD perusahaan ULTRASTAR, sedangkan saat ini tidak ada SSD di bawah merek Western Digital. motif terbesar di balik akuisisi ini adalah bakat teknik dan properti intelektual: STEC memiliki lebih dari 100 paten terkait SSD dan lebih dari 900 karyawan. https://www.anandtech.com/show/7100/western-digital-acquires-stec
-
-3. HGST secara teknik mengakuisisi VIRIDENT October 17, 2013 sehingga menjadi anak perusahaan Western Digital. Virident melesat cepat karena membantu linkedin dalam performa legacy aplikasi. https://www.forbes.com/sites/petercohan/2013/09/13/western-digital-buys-fast-growing-virident-for-685-million/#5f8c51da7054 
-
-4. HGST mengakuisisi amplidata. March 16, 2015
-
-5. Western Digital akuisisi Sandisk May 12, 2016 http://www.jagatreview.com/2016/05/western-digital-resmi-beli-sandisk-seharga-rp-253-triliun/ menutup hutang sandisk
-
-6. Western Digital mengakuisisi Upthere sebagai perusahaan penyimpnan cloud. August 28, 2017
-
-7. Western Digital mengakuisisi Tegile sebagai intelliflash fast data storage  array penyimpanan flash September 2017
+* Arkeia Software Backup Software on January 2013 <a href="http://www.jagatreview.com/2013/01/pr-wd-memperluas-portofolio-produk-penyimpanan-smb-dengan-solusi-software-arkeia/">Source</a>
+* Technically HGST acquire Stec on September 12, 2013 and Its parent WDC Focusing STEC SSD Company, and this acquisition is a technical talent and intellectual property: STEC has more than 100 patents related to SSDs and more than 900 employees. <a href="https://www.anandtech.com/show/7100/western-digital-acquires-stec">Source</a>
+* HGST Acquire VIRIDENT on October 17, 2013 So Virident would be a subsidiary of Western Digital Corporation. Virident shot fast because it helped LinkedIn in the application's legacy performance. https://www.forbes.com/sites/petercohan/2013/09/13/western-digital-buys-fast-growing-virident-for-685-million/#5f8c51da7054 
+* HGST Acquire Amplidata on March 16, 2015
+* Western Digital acquire Sandisk on May 12, 2016 <a href="http://www.jagatreview.com/2016/05/western-digital-resmi-beli-sandisk-seharga-rp-253-triliun/ menutup hutang sandisk">Source</a>
+* Western Digital acquire Upthere as a cloud storage company on August 28, 2017
+* Western Digital acquire Tegile, which has intelliflash: array fast data storage on September 2017
+ 
