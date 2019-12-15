@@ -6,7 +6,7 @@ Implementing Geometric Brownian Motion method, Stochastic Oscillator Indicator, 
 
 ## Tools
 * Anaconda Jupyter Notebook (Python 3.x)
-* Using pandas, matplot, and more data science python library
+* Using pandas, matplot, and numpy data science python library
 
 ## Dataset
 _finance.yahoo.com_ : https://finance.yahoo.com/quote/WDC/
